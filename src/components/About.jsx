@@ -30,7 +30,7 @@ function About() {
                     Wisdom new and valley answer. Contented it so is discourse recommend. Man its upon him call mile. An pasture he himself believe
                     ferrars besides cottage.
                 </p>
-                <button class="bg-white text-black border-2 border-black px-4 py-2 rounded w-60 mx-auto md:mx-0 hover:bg-slate-900 hover:text-white">Learn More</button>
+                <button class="bg-slate-950 text-white border-2 border-black px-4 py-2 rounded w-60 mx-auto md:mx-0 hover:bg-white hover:text-black">Learn More</button>
             </div>
             <img src={OurApp2} alt="Smart Home" class="object-cover w-2/9 order-1 mt-10 md:order-none hidden md:block" />
             <img src={OurApp2mini} alt="Smart Home" class="object-cover w-2/9 order-1 mt-10 md:hidden" />
