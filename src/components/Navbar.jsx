@@ -72,7 +72,7 @@ function Navbar() {
 
       {/* Mobile Menu */}
       {isOpen && (
-        <div className="fixed inset-0 bg-blue-500 text-white flex flex-col items-center py-4 lg:hidden z-50">
+        <div className="fixed inset-0 bg-blue-600 text-white flex flex-col items-center py-4 lg:hidden z-50">
           <div className="flex items-center justify-between w-full px-6 mt-4">
             <h3 className="font-bold text-xl">SMART HOME</h3>
             <button

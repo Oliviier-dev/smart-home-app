@@ -6,6 +6,7 @@ import Testimonials from './components/Testimonials'
 import FAQ from './components/FAQ'
 import DownloadApp from './components/DownloadApp'
 import Subscribe from './components/Subscribe'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -18,6 +19,7 @@ function App() {
       <FAQ/>
       <DownloadApp/>
       <Subscribe />
+      <Footer />
     </div>
   )
 }
