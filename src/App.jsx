@@ -5,6 +5,7 @@ import Clients from './components/Clients'
 import Testimonials from './components/Testimonials'
 import FAQ from './components/FAQ'
 import DownloadApp from './components/DownloadApp'
+import Subscribe from './components/Subscribe'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       <Testimonials/>
       <FAQ/>
       <DownloadApp/>
+      <Subscribe />
     </div>
   )
 }
