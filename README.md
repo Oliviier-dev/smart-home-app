@@ -1,8 +1,44 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Smart Home Landing Page
 
-Currently, two official plugins are available:
+This repository contains the source code for the **Smart Home Application Landing Page**, built with **React** and styled using **Tailwind CSS**. The landing page is designed to showcase the features and benefits of a smart home system, providing a modern, responsive interface for potential customers.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+-   Fully responsive design
+-   Modern UI with smooth animations
+-   Easy to customize and extend
+
+## Installation
+
+1.  Clone the repository:
+    
+    ```bash
+    git clone https://github.com/Oliviier-dev/smart-home-app.git 
+    ```
+    
+2.  Navigate to the project folder:
+    
+    ```bash
+    cd smart-home-app
+    ``` 
+    
+3.  Install dependencies:
+    
+    ```bash   
+    npm install
+    ``` 
+    
+4.  Start the development server:
+    
+    ```bash
+	npm dev
+       ``` 
+    
+    The app will run at http://localhost:5173/.
+    
+
+## Customization
+
+-   Modify content in `src/App.js`.
+-   Change styles using Tailwind classes in the components.
